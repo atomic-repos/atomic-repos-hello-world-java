@@ -2,3 +2,5 @@ module:
   mounts:
     - source: content
       target: content
+    - source: static
+      target: static
