@@ -1,6 +1,6 @@
 ---
-title: Hello Java
-summary: Java Hello World Atomic Repo
+title: Hello World (Java)
+summary: 'Atomic Repos Template: Hello World Java'
 github_user: mstine
 github_url: 
 author: Matt Stine
